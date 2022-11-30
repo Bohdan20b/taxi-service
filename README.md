@@ -53,6 +53,3 @@ Required software:
 * **Java Servlet API » 4.0.1**
 * **JSTL JavaServer Pages Standard Tag Library**
 * **MySQL**
-
-
-
